@@ -1,0 +1,180 @@
+@media all and (max-width: 991px){
+.exact-method h2 {
+	font-size: 38px;
+}
+.exact-method-area {
+	padding: 55px 0px 55px 0px;
+}
+.exact-method {
+	max-width: 715px;
+	padding: 40px 35px 40px 35px;
+}
+.exact-method h3 {
+	font-size: 20px;
+	padding-bottom: 18px;
+}
+.exact-method h5 {
+	font-size: 27px;
+}
+.unlolock .btn-primary {
+	font-size: 20px;
+}
+.unlock-area {
+	max-width: 589px;
+}
+.discover p {
+	font-size: 16px;
+}
+.footer-area {
+	padding: 35px 0px;
+}
+}
+@media all and (max-width: 767px){
+	.heading-area h1 {
+	font-size: 15px;
+}
+.exact-method {
+	max-width: 540px;
+	padding: 30px 22px 30px 22px;
+}
+.exact-method h4 {
+	font-size: 17px;
+}
+.exact-method h2 {
+	font-size: 30px;
+}
+.exact-method h3 {
+	font-size: 17px;
+	padding-bottom: 10px;
+	padding-top: 17px;
+}
+.exact-method h5 {
+	font-size: 23px;
+}
+.unlolock .btn-primary {
+	font-size: 18px;
+}
+.angle-icons {
+	font-size: 30px;
+}
+.unlock-area {
+	max-width: 516px;
+}
+.exact-method-area {
+	padding: 55px 0px 55px 0px;
+}
+.modal-dialog {
+	max-width: 520px;
+}
+.modal-content {
+	padding: 25px;
+}
+.moduls-content h3 {
+	font-size: 31px;
+	margin-top: 35px;
+}
+.moduls-content p {
+	font-size: 15px;
+}
+.moduls-content button {
+	font-size: 18px;
+}
+.strong-plus {
+	font-size: 14px !important;
+}
+}
+
+@media all and (max-width: 575px){
+	.heading-area h1 {
+	padding: 20px 20px;
+}
+.exact-method {
+	max-width: 450px;
+	padding: 20px 15px 20px 15px;
+}
+.exact-method h4 {
+	font-size: 16px;
+}
+.exact-method h2 {
+	font-size: 25px;
+}
+.exact-method h3 {
+	font-size: 15px;
+	padding-bottom: 9px;
+	padding-top: 5px;
+}
+.exact-method h5 {
+	font-size: 20px;
+}
+.unlock-area {
+	max-width: 417px;
+}
+.unlolock .btn-primary {
+	font-size: 13px;
+}
+.discover p {
+	font-size: 13px;
+}
+.moduls-content h3 {
+	font-size: 27px;
+	margin-top: 30px;
+}
+.moduls-content p {
+	font-size: 13px;
+}
+.moduls-content button {
+	font-size: 15px;
+}
+}
+
+@media all and (max-width: 480px){
+	.exact-method {
+	max-width: 330px;
+	padding: 15px 15px 15px 15px;
+}
+.exact-method-area {
+	padding: 30px 0px 30px 0px;
+}
+.unlolock .btn-primary {
+	font-size: 12px;
+	padding: 12px 14px;
+}
+.unlock-area {
+	max-width: 332px;
+}
+.exact-method h2 {
+	font-size: 22px;
+}
+.exact-method h3 {
+	font-size: 13px;
+}
+.exact-method h5 {
+	font-size: 18px;
+}
+.discover p {
+	font-size: 12px;
+}
+.footer-copy p {
+	line-height: 24px;
+	padding: 0px 15px;
+}
+.moduls-content h3 {
+	font-size: 22px;
+}
+.modal-content {
+	padding: 14px;
+}
+.moduls-content button {
+	font-size: 11px;
+	padding: 10px 7px !important;
+}
+.moduls-content input {
+	width: 100%;
+	font-size: 13px;
+	padding: 7px 13px;
+}
+.modal-dialog {
+	max-width: 320px;
+	margin: 30px auto 0 auto;
+}
+}
